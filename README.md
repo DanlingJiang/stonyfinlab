@@ -1,4 +1,5 @@
 # stonyfinlab
+Steps to update
 Simply Static exported HTML file from stonyfinlab.org, for importing to Vercel
 
 Q: How to convert a Wordpress made webpage into Github HTML to import it to Vercel using Next.js
